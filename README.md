@@ -7,3 +7,11 @@
 3. 윷놀이
 4. 소수판별 
 5. 간단한 시간표 프로그램, 
+
+
+## basic
+
+1. Numpy.ipynb
+2. Matplotlib.ipynb
+3. Pandas.ipynb
+4. Pandas를 활용한 데이터 분석
