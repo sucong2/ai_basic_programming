@@ -24,6 +24,8 @@
 ### tutorial2
 * https://setosa.io/ev/image-kernels/
 * https://user-images.githubusercontent.com/15958325/58780750-defb7480-8614-11e9-943c-4d44
+* https://www.sciencedirect.com/topics/mathematics/convolutional-layer
+* https://scahp.tistory.com/25
 ## repo
 
 1.
