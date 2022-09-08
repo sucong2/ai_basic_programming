@@ -22,9 +22,8 @@
 ### tutorial1
 
 ### tutorial2
-https://setosa.io/ev/image-kernels/
-https://user-images.githubusercontent.com/15958325/58780750-defb7480-8614-11e9-943c-4d44a9d1efc4.gif
-https://gruuuuu.github.io/machine-learning/cnn-doc/![image](https://user-images.githubusercontent.com/63510941/189116245-b6b20b6c-d495-4f44-a46c-29cdd835ae8f.png)
+* https://setosa.io/ev/image-kernels/
+* https://user-images.githubusercontent.com/15958325/58780750-defb7480-8614-11e9-943c-4d44
 ## repo
 
 1.
