@@ -16,6 +16,14 @@
 3. Pandas.ipynb
 4. Pandas를 활용한 데이터 분석
 
+
+## openCV
+.. 
+### tutorial1
+
+### tutorial2
+https://setosa.io/ev/image-kernels/
+https://user-images.githubusercontent.com/15958325/58780750-defb7480-8614-11e9-943c-4d44a9d1efc4.gif
 ## repo
 
 1.
