@@ -1,4 +1,4 @@
-## 출처 AIDA 양석환 대표
+## 출처 AIDA 양석환 대표 + 개인 소스
 https://github.com/aidalabs
 
 ## 아래의 예제를 실행하기 위해서는 <br/> <br/>basic/Dataset 의 데이터를 다운로드 후 사용
