@@ -1,4 +1,4 @@
-# Ai_basic_programming in python
+# Ai_basic_programming [python]
 
 과제 했던거 올리는 저장소
 
@@ -31,3 +31,12 @@
 1.
 2.
 3. 군집화
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+## 
